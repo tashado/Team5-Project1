@@ -39,4 +39,4 @@ Links:
 
 == Basic Instructions ==
 
-Each group member has a separate file for their contribution. Each file is self contained and may be run individually for the results.
+Each group member has a separate file for their contribution, located in a zip file denoted by the question number. Each file is self contained and may be run individually for the results.
