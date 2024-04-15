@@ -3,7 +3,7 @@
 
 Contributors: 
 * Siri Penumatcha
-* Tasha Do
+* Tasha Do - Q1 Files
 * Mark Peck - UserDataDailyMix.ipynb
 * Riona Espedido
 
