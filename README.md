@@ -17,6 +17,11 @@ Links:
     - https://medium.com/codex/decoding-spotify-daily-mix-73f4783037b4
     - https://towardsdatascience.com/part-iii-building-a-song-recommendation-system-with-spotify-cf76b52705e7
 
+* Riona
+  - https://open.spotify.com/genre/charts-regional
+  - https://charts.spotify.com/charts/overview/global
+  - https://github.com/simon-th/spotify-data-project/blob/master/Extracting%20Spotify%20Audio%20Features.ipynb
+  - https://towardsdatascience.com/extracting-song-data-from-the-spotify-api-using-python-b1e79388d50
 
 == Basic Instructions ==
 
