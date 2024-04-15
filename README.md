@@ -2,7 +2,7 @@
 
 
 Contributors: 
-* Siri Penumatcha
+* Siri Penumatcha - SpotifyAlbumTrackFeatures.ipynb, accesstoken.py, .gitignore
 * Tasha Do - Q1 Files
 * Mark Peck - UserDataDailyMix.ipynb
 * Riona Espedido
